@@ -1,6 +1,6 @@
-# shop3
+# CoffeeMe
 
-A new Flutter project.
+This is the Final assessment for CASA0015 -- Mobile System & Interaction. More details could be find in submission page.
 
 ## Getting Started
 
