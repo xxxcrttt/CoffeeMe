@@ -1,6 +1,6 @@
 # CoffeeMe
 
-This is the Final assessment for CASA0015 -- Mobile System & Interaction. More details could be find in submission page.
+This is the Final assessment for CASA0015 -- Mobile System & Interaction. More details could be find in [submission file](https://github.com/xxxcrttt/casa0015-mobile-assessment/blob/main/submission-file.md).
 
 ## Getting Started
 
