@@ -4,7 +4,7 @@ App Name -- [**☕️ CoffeeMe**](https://github.com/xxxcrttt/casa0015-mobile-as
 
 ## Introduction to Application
 
-CoffeeMe is a coffee app based on iOS for personal use. It offers nearby coffee shops and different types of coffee with flavors and prices. 
+CoffeeMe is a coffee app based on iOS for personal use. I am a daily coffee drinker, and my greatest joy is to try all the coffee from the coffee shops around me. This app offers nearby coffee shops and different types of coffee with flavors and prices. 
 
 ### Features
 * 📱 **HomePage (P1 & P2)**     
@@ -28,6 +28,10 @@ Shows several cafes near my home, each of the different shop corresponds to thei
 <img src='https://github.com/xxxcrttt/casa0015-mobile-assessment/blob/main/capture/2.JPG'>
 
 <img src='https://github.com/xxxcrttt/casa0015-mobile-assessment/blob/main/capture/1.JPG'>
+
+Video:   
+You can see the functions of the app here! [**Youtube**](https://youtu.be/zY5-WqG4jB4)
+
 
 ### Requirements
 ```
