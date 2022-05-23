@@ -30,8 +30,10 @@ Shows several cafes near my home, each of the different shop corresponds to thei
 
 <img src='https://github.com/xxxcrttt/casa0015-mobile-assessment/blob/main/capture/1.JPG'>
 
-Video:   
+**Video**   
 You can see the functions of the app here! [**Youtube**](https://youtu.be/zY5-WqG4jB4)
+
+**Presentation PDF**: [presentation](https://github.com/xxxcrttt/CoffeeMe/blob/main/CoffeeMe.pdf)
 
 
 ### Requirements
